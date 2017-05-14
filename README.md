@@ -1,18 +1,15 @@
 # iot_cloud
 
-TODO: Write a description here
+Install Crystal 
+http://kemalcr.com/
 
-## Installation
+## Installation, Usage 
 
-TODO: Write installation instructions here
-
-## Usage
-
-TODO: Write usage instructions here
+http://kemalcr.com/docs/getting_started/
 
 ## Development
 
-TODO: Write development instructions here
+
 
 ## Contributing
 
@@ -24,4 +21,5 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) Prajwal Prakash - creator, maintainer
+- [[aarthikrao]](https://github.com/aarthikrao) Prajwal Prakash, Aarthik Rao - creator, maintainer
+Thanks to https://github.com/prajwaldp
